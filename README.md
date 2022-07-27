@@ -10,7 +10,7 @@ This website is fully created with core CSS and HTML
 ![badge](https://img.shields.io/badge/HTML-CSS-green)
 
 
-Check the live project here: [Lets change](https://consultancy4.netlify.app)
+Check the live project here: [Lets change](https://digitalmarketinghomepagebyadi.netlify.app/)
 
 
 
