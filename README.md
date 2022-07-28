@@ -25,6 +25,10 @@ Check the live project here: [Lets change](https://digitalmarketinghomepagebyadi
 
 ![image](./assets/approach.png)
 
+## Message For Visitors
+    -Feel free to make changes and tag me
+    -Emails4adi@gmail.com
+
 ## This project took me around 2.5 hours approximately which also include the ScreenShot taking and pusing to github.
 
 ### Chek Me  
